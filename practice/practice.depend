@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652813060 source:c:\users\yugal\onedrive\documents\c files\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
